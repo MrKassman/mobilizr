@@ -134,7 +134,7 @@ NULL
 #'
 #' \itemize{
 #' \item age. age in years
-#' \item gender. sex
+#' \item gender. gender
 #' \item grade. grade in school
 #' \item height. height of student in meters
 #' \item weight. weight of student in kilograms
