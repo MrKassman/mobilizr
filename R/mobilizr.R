@@ -134,10 +134,8 @@ NULL
 #'
 #' \itemize{
 #' \item age. age in years
-#' \item gender. sex assigned at birth
+#' \item gender. sex
 #' \item grade. grade in school
-#' \item hisp_latino. whether or not student identifies as Hispanic or Latino
-#' \item race. race the student identifies with
 #' \item height. height of student in meters
 #' \item weight. weight of student in kilograms
 #' \item helmet. how often student wore a helmet while bicycling during the past 12 months
@@ -149,7 +147,6 @@ NULL
 #' \item depressed. student reported feeling depressed for 2 weeks in a row, or more, during the past 12 months
 #' \item days_smoking. number of days student reported smoking cigarettes during past 30 days
 #' \item days_vaping. number of days student reported vaping, smoking electronic cigarettes, during past 30 days
-#' \item sexuality. how the student describes their sexual orientation.
 #' \item describe_weight. student perception of their weight relative to what they believe it should be
 #' \item drink_juice. how often student consumed fruit juice over the previous 7 days
 #' \item eat_fruit. how often student ate fruit over the previous 7 days
@@ -171,7 +168,7 @@ NULL
 #' @keywords dataset
 #' @name cdc
 #' @usage data(cdc)
-#' @format A data frame with 15,624 observations of 33 variables
+#' @format A data frame with 15,624 observations of 30 variables
 #' @source \url{http://www.cdc.gov/HealthyYouth/yrbs/index.htm}
 NULL
 
